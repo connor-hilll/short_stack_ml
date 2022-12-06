@@ -48,7 +48,9 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 ### Clone the Repository
 
-TODO: instructions for cloning repo
+```
+git clone git@github.com:connor-hilll/short_stack_ml.git
+```
 
 ### Setting up via CLI
 
